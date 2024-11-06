@@ -1,0 +1,10 @@
+{
+    "celoga": {
+        "customer_name": "celoga",
+        "room_number": 418,
+        "nights": 3,
+        "rate_per_night": 415.0,
+        "total_charge": 1245.0,
+        "feedback": null
+    }
+}
